@@ -1,3 +1,5 @@
 This is some new file.
 For which I am adding some stuff.
 Whee.
+
+And now I am making this change on my branch?
